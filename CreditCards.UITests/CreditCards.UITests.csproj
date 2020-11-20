@@ -64,6 +64,7 @@
     <Compile Include="CreditCardApplicationTests.cs" />
     <Compile Include="CreditCardTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SeleniumEasyTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
