@@ -34,7 +34,7 @@ namespace CreditCards.UITests
 
                 //Assert
                 var display = driver.FindElement(By.Id(DisplayId));
-                Assert.Equal(MyMessage, display.Text);
+                Assert.Equal(MyMessage, display.Text);`
             }
         }
     }
